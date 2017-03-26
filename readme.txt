@@ -1,5 +1,5 @@
-ÎªÁË±ãÓÚÔÄ¶Ácrf++´úÂë£¬Ëæ½¨Á¢ÁËÔÚWindowsÉÏ½¨Á¢ÁËcrf++0.58µÄVisual Studio 2015¹¤³Ì¡£
+ä¸ºäº†ä¾¿äºŽé˜…è¯»crf++ä»£ç ï¼Œéšåœ¨Windowsä¸Šå»ºç«‹äº†crf++0.58çš„Visual Studio 2015å·¥ç¨‹ã€‚
 
-1,Ê¹ÓÃvs2015 ¹¹½¨¶ø³É£¬Ê¹ÓÃÇ°ÇëÈ·±£»úÆ÷ÉÏ°´ÕÕÁËvs2015£»
-2,´ò¿ª¹¤³Ìcrfpp.sln£¬Ê×ÏÈ±àÒëÉú³ÉcrffµÄ¶¯Ì¬¿âdll¼°lib, ÓÒ¼üÉèÖÃ ÏîÄ¿ crfpp_dllÉèÖÃÎª "Set as StartUp Project", buildÒ»ÏÂ¼´¿ÉÉú³É dll¼°lib£»
-3,ÏîÄ¿crfppÉèÖÃÎª "Set as StartUp Project"½øÐÐÏà¹Ø²âÊÔ£»
+1,ä½¿ç”¨vs2015 æž„å»ºè€Œæˆï¼Œä½¿ç”¨å‰è¯·ç¡®ä¿æœºå™¨ä¸ŠæŒ‰ç…§äº†vs2015ï¼›
+2,æ‰“å¼€å·¥ç¨‹crfpp.slnï¼Œé¦–å…ˆç¼–è¯‘ç”Ÿæˆcrffçš„åŠ¨æ€åº“dllåŠlib, å³é”®è®¾ç½® é¡¹ç›® crfpp_dllè®¾ç½®ä¸º "Set as StartUp Project", buildä¸€ä¸‹å³å¯ç”Ÿæˆ dllåŠlibï¼›
+3,é¡¹ç›®crfppè®¾ç½®ä¸º "Set as StartUp Project"è¿›è¡Œç›¸å…³æµ‹è¯•ï¼›
